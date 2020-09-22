@@ -1,0 +1,8 @@
+Saida:
+    EXIT_PROCEDURE
+
+Erro:
+    InformaErro Err.Number, Err.Description, "NOME_PROCEDURE"
+    Resume Saida
+
+
